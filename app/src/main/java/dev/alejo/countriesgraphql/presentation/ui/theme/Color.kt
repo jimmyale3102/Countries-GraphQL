@@ -1,4 +1,4 @@
-package dev.alejo.countriesgraphql.ui.theme
+package dev.alejo.countriesgraphql.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
